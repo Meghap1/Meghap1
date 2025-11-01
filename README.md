@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Megha, a self thaught data Analyst and SQL enthusiastist from India
+# 👋 Hi, I'm Megha, data Analyst and SQL enthusiastist from India
 
 💻 **Data Analyst** | SQL | Python | Tableau  
 
