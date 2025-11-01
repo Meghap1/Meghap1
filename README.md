@@ -1,8 +1,12 @@
-# 👋 Hi, I'm Megha
+# 👋 Hi, I'm Megha, a self thaught data Analyst and SQL enthusiastist from India
 
 💻 **Data Analyst** | SQL | Python | Tableau  
 
-I love transforming raw data into business insights through analytics, visualization, and automation.  
+About me in 30 sec
+ * Biomedical Enginnering Backgroung + 3 years of Professional experiance
+ * Transition to Data Analystics in 2023
+ * Learn working with numbers and working with new skills.
+ * I love transforming raw data into business insights through analytics, visualization, and automation.  
 
 ---
 
