@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Megha
 
-<!--
-**Meghap1/Meghap1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Data Analyst** | SQL | Python | Tableau  
 
-Here are some ideas to get you started:
+I love transforming raw data into business insights through analytics, visualization, and automation.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
+- 🗄️ SQL (MySQL, PostgreSQL)
+- 📊 Tableau (Dashboards & Storytelling)
+- 📈 Excel, Power BI (basic)
+
+---
+
+### 📚 Featured Projects
+
+| Project | Description | Tools |
+|----------|--------------|-------|
+| [Sales Insights Dashboard](https://public.tableau.com/app/profile/...) | Analyzed sales data to uncover regional performance patterns | Tableau, SQL |
+| [Retail EDA Python Project](https://github.com/megha-data/retail-eda) | Cleaned and visualized retail data for trend discovery | Python, Pandas |
+| [Customer Churn Prediction](https://github.com/megha-data/churn-prediction) | Machine learning model predicting customer churn | Python, Scikit-learn |
+
+---
+
+📫 **Reach Me At**  
+- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 📧 megha.email@example.com
