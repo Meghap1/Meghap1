@@ -25,5 +25,5 @@ I love transforming raw data into business insights through analytics, visualiza
 ---
 
 📫 **Reach Me At**  
-- [LinkedIn](www.linkedin.com/in/megha-panchal-046b8a378)  
+- [LinkedIn](https://www.linkedin.com/in/megha-panchal-046b8a378/)  
 - 📧 megha.bme1@gmail.com
